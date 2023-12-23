@@ -1,0 +1,68 @@
+OSBot Enabled {
+    kind=Dark
+    colorUltraLight=#232323
+    colorExtraLight=#232323
+    colorLight=#232323
+    colorMid=#232323
+    colorDark=#232323
+    colorUltraDark=#232323
+    colorForeground=#C6C6C6
+}
+
+OSBot Disabled {
+    kind=Dark
+    colorUltraLight=#121212
+    colorExtraLight=#121212
+    colorLight=#121212
+    colorMid=#121212
+    colorDark=#121212
+    colorUltraDark=#121212
+    colorForeground=#787878
+}
+
+OSBot Active {
+    kind=Light
+    colorUltraLight=#4E4E4E
+    colorExtraLight=#4E4E4E
+    colorLight=#4E4E4E
+    colorMid=#4E4E4E
+    colorDark=#4E4E4E
+    colorUltraDark=#4E4E4E
+    colorForeground=#C6C6C6
+}
+
+OSBot Border {
+    kind=Dark
+    colorUltraLight=#191919
+    colorExtraLight=#191919
+    colorLight=#191919
+    colorMid=#191919
+    colorDark=#191919
+    colorUltraDark=#191919
+    colorForeground=#C6C6C6
+}
+
+OSBot Background {
+    kind=Light
+    colorUltraLight=#111111
+    colorExtraLight=#111111
+    colorLight=#111111
+    colorMid=#111111
+    colorDark=#111111
+    colorUltraDark=#111111
+    colorForeground=#C6C6C6
+}
+
+OSBot Palette {
+    kind=Light
+    colorMark=#2ecc71
+    colorFocusRing=#9e0a0a
+
+    colorUltraLight=#0
+    colorExtraLight=#0
+    colorLight=#0
+    colorMid=#0
+    colorDark=#0
+    colorUltraDark=#0
+    colorForeground=#0
+}
